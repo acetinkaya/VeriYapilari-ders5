@@ -12,8 +12,13 @@ Bu ders içerisinde;
 
 ---
 
+5.1. Kullanılan Operatörlerin Tam Listesi
 
+---
 
+5.2. Algoritmalarda Kullanılan Tanım ve Kavramlar
+
+---
 
 5.3. Algoritma Hazırlama Süreci
 
