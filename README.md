@@ -6,15 +6,11 @@
 
 Bu ders içerisinde;
 
-4.1. Operatör Nedir?  
-4.2. Operatör Türleri ve Örnekler  
-4.2.1. Aritmetik Operatörler  
-4.2.2. Karşılaştırma Operatörleri  
-4.2.3. Mantıksal Operatörler  
-4.2.4. Atama, Arttırma ve Azaltma Operatörleri
-4.2.5. Bit Düzeyinde Operatörler
-4.3. Operatör İşlem Önceliği  
-4.4. ASCII Tablosu
-4.5. Uygulamalı Örnekler ve Alıştırmalar
+5.1. Kullanılan Operatörlerlerin Tam Listesi 
+5.2. Algoritmalarda Kullanılan Tanım ve Kavramlar
+5.3. Algoritma Hazırlama Süreci
+	
+	
+	
 
 ---
