@@ -21,9 +21,7 @@ Problem Tanımlaması: Algoritmanın çözmeye çalıştığı problemi net bir 
 
 Girdi ve Çıktı Belirleme: Algoritmanın aldığı giriş ve verdiği çıkışı açıkça tanımlayın.
 
-Algoritma Tasarımı: Adım adım çözüm sürecini tasarlamak. Burada kullanılan yöntemler:  
-    Akış Diyagramları: Algoritmanın görsel temsilini sağlar.  
-    Pseudocode: Yüksek seviyede yazılmış, programlamaya uygun ancak bağımsız bir algoritma yazım dili.  
+Algoritma Tasarımı: Adım adım çözüm sürecini tasarlamak. Burada kullanılan yöntemler:  Akış Diyagramları ve Pseudocode'dır.
     
 Algoritma Analizi: Algoritmanın zaman ve alan karmaşıklığını analiz edin.
 
