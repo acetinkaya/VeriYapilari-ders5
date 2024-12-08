@@ -25,6 +25,23 @@ Bu ders içerisinde;
 
 5.2. Algoritmalarda Kullanılan Tanım ve Kavramlar
 
+| Kavram  | Tanım	| Örnek/Açıklama |
+|------------|------------|------------|
+| Algoritma	 | Belirli bir problemi çözmek için sıralı adımlar kümesi | Yemek tarifi, bir algoritmanın günlük hayattaki örneğidir |
+| Girdi (Input)	| Algoritmanın çalışması için gereken başlangıç verileri | Bir toplama algoritmasında sayılar girdidir. |
+| Çıktı (Output) | Algoritmanın sonunda elde edilen sonuç | Toplama algoritmasının sonucu toplamdır. |
+| Akış Diyagramı | Algoritmanın görsel olarak gösterimi	| Başlangıç, işlem ve karar bloklarını içeren bir diyagram. |
+| Adım Sayısı	| Algoritmanın çözüm için gerçekleştirdiği işlem sayısı	|
+| Karmaşıklık (Complexity) | Algoritmanın çalışma süresi veya bellek kullanımı | 
+| Big O Notasyonu	| Algoritmanın performansını ifade eden matematiksel gösterim	|
+| Karar Yapıları	|	Algoritmada koşullara göre farklı yolları temsil eder	|
+| Döngüler	| Belirli işlemleri tekrar eden yapı	|
+| Doğrusal Arama	|	Veri içinde sıralı olarak arama yapma	|
+| İkili Arama	|	Sıralı bir veri kümesinde bölerek arama yapma	| 
+| Recursive (Özyinelemeli)	| Bir fonksiyonun kendisini çağırdığı algoritma türü	
+| Veri Yapıları	|	
+| Heuristik	|
+
 ---
 
 5.3. Algoritma Hazırlama Süreci
