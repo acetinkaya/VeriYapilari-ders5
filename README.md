@@ -14,6 +14,13 @@ Bu ders içerisinde;
 
 5.1. Kullanılan Operatörlerin Tam Listesi
 
+| Operatör Türü	   | Operatörler	  | Açıklama |
+|------------|------------|------------|
+| Aritmetik Operatörler	     | +, -, *, /, %, ** | Toplama, çıkarma, çarpma, bölme, modül, üs alma |
+| Karşılaştırma Operatörleri    | Veri 5     | Veri 6     |
+| Atama Operatörleri	    | Veri 8     | Veri 9     |
+| Mantıksal Operatörler	  |
+
 ---
 
 5.2. Algoritmalarda Kullanılan Tanım ve Kavramlar
