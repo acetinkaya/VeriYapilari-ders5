@@ -17,8 +17,8 @@ Bu ders içerisinde;
 | Operatör Türü	   | Operatörler	  | Açıklama |
 |------------|------------|------------|
 | Aritmetik Operatörler	     | +, -, *, /, %, ** | Toplama, çıkarma, çarpma, bölme, modül, üs alma |
-| Karşılaştırma Operatörleri    | Veri 5     | Veri 6     |
-| Atama Operatörleri	    | Veri 8     | Veri 9     |
+| Karşılaştırma Operatörleri    | ==, !=, >, <, >=, <=  | Eşittir, eşit değildir, büyüktür, küçüktür, büyük eşittir, küçük eşittir |
+| Atama Operatörleri	    | =, +=, -=, *= | Atama ve işlem yaparak atama (ekleme, çıkarma, çarpma , vb.) |
 | Mantıksal Operatörler	  |
 
 ---
