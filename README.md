@@ -22,15 +22,15 @@ Bu ders içerisinde;
 
 5.3. Algoritma Hazırlama Süreci
 
-Problem Tanımlaması: Algoritmanın çözmeye çalıştığı problemi net bir şekilde tanımlamak.
+** Problem Tanımlaması
 
-Girdi ve Çıktı Belirleme: Algoritmanın aldığı giriş ve verdiği çıkışı açıkça tanımlayın.
+** Girdi, Çıktı ve Amacı Belirle :-> 
 
-Algoritma Tasarımı: Adım adım çözüm sürecini tasarlamak. Burada kullanılan yöntemler: Pseudocode ve Akış Diyagramları'dır.
+** Algoritma Tasarımı :->  Adım adım çözüm sürecini tasarlamak. Burada kullanılan yöntemler: Pseudocode ve Akış Diyagramları'dır.
 
 Örnek bir Pseudocode (Sözde Kod):         
 1. Başla  
-2. Giriş: bir sayı dizisi al  
+2. Bir sayı dizisi al  
 3. Alınan diziyi sırala  
 4. İlk ve son elemanları karşılaştır  
 5. En büyük elemanı döndür  
