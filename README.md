@@ -28,19 +28,19 @@ Bu ders içerisinde;
 | Kavram  | Tanım	| Örnek/Açıklama |
 |------------|------------|------------|
 | Algoritma	 | Belirli bir problemi çözmek için sıralı adımlar kümesi | Yemek tarifi, bir algoritmanın günlük hayattaki örneğidir |
-| Girdi (Input)	| Algoritmanın çalışması için gereken başlangıç verileri | Bir toplama algoritmasında sayılar girdidir. |
-| Çıktı (Output) | Algoritmanın sonunda elde edilen sonuç | Toplama algoritmasının sonucu toplamdır. |
-| Akış Diyagramı | Algoritmanın görsel olarak gösterimi	| Başlangıç, işlem ve karar bloklarını içeren bir diyagram. |
-| Adım Sayısı	| Algoritmanın çözüm için gerçekleştirdiği işlem sayısı	|
-| Karmaşıklık (Complexity) | Algoritmanın çalışma süresi veya bellek kullanımı | 
-| Big O Notasyonu	| Algoritmanın performansını ifade eden matematiksel gösterim	|
-| Karar Yapıları	|	Algoritmada koşullara göre farklı yolları temsil eder	|
-| Döngüler	| Belirli işlemleri tekrar eden yapı	|
-| Doğrusal Arama	|	Veri içinde sıralı olarak arama yapma	|
-| İkili Arama	|	Sıralı bir veri kümesinde bölerek arama yapma	| 
-| Recursive (Özyinelemeli)	| Bir fonksiyonun kendisini çağırdığı algoritma türü	
-| Veri Yapıları	|	
-| Heuristik	|
+| Girdi (Input)	| Algoritmanın çalışması için gereken başlangıç verileri | Bir toplama algoritmasında sayılar girdidir |
+| Çıktı (Output) | Algoritmanın sonunda elde edilen sonuç | Toplama algoritmasının sonucu toplamdır |
+| Akış Diyagramı | Algoritmanın görsel olarak gösterimi	| Başlangıç, işlem ve karar bloklarını içeren bir diyagram |
+| Adım Sayısı	| Algoritmanın çözüm için gerçekleştirdiği işlem sayısı	| Döngülerde iterasyon sayısı adım sayısını belirtir | 
+| Karmaşıklık (Complexity) | Algoritmanın çalışma süresi veya bellek kullanımı | Big O Notasyonu ile ifade edilir (O(n), O(log n)) |
+| Big O Notasyonu	| Algoritmanın performansını ifade eden matematiksel gösterim	| O(n): Doğrusal karmaşıklık, O(1): Sabit zaman |
+| Karar Yapıları	|	Algoritmada koşullara göre farklı yolları temsil eder	| if, else kullanımı |
+| Döngüler	| Belirli işlemleri tekrar eden yapı	| for, while döngüleri. |  
+| Doğrusal Arama	|	Veri içinde sıralı olarak arama yapma	| Liste içinde tek tek eleman kontrolü |
+| İkili Arama	|	Sıralı bir veri kümesinde bölerek arama yapma	| Ortadan bölerek arama işlemi |
+| Recursive (Özyinelemeli)	| Bir fonksiyonun kendisini çağırdığı algoritma türü	| Fibonacci serisinin hesaplanması |
+| Veri Yapıları	|	Algoritmanın üzerinde çalıştığı verilerin düzenlenme şekli	| Liste, dizi, yığın (stack), kuyruk (queue) |
+| Heuristik	| En iyi çözüme ulaşmak için kullanılan tahmini veya sezgisel yöntemler	| Yapay zeka problemlerinde kullanılır |
 
 ---
 
