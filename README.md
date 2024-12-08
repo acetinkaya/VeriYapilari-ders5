@@ -18,8 +18,8 @@ Bu ders içerisinde;
 |------------|------------|------------|
 | Aritmetik Operatörler	     | +, -, *, /, %, ** | Toplama, çıkarma, çarpma, bölme, modül, üs alma |
 | Karşılaştırma Operatörleri    | ==, !=, >, <, >=, <=  | Eşittir, eşit değildir, büyüktür, küçüktür, büyük eşittir, küçük eşittir |
-| Atama Operatörleri	    | =, +=, -=, *= | Atama ve işlem yaparak atama (ekleme, çıkarma, çarpma , vb.) |
-| Mantıksal Operatörler	  |
+| Atama Operatörleri	    | =, +=, -=, *= | Atama ve işlem yaparak atama |
+| Mantıksal Operatörler	  | and, or, not	| Ve, Veya, Değil |
 
 ---
 
