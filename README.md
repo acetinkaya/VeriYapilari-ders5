@@ -35,3 +35,7 @@ Bu ders içerisinde;
 6* Algoritma Analizi: Algoritmanın zaman ve alan karmaşıklığını analiz edin.
 
 7* Test ve Düzeltme: Algoritmanın çeşitli test senaryolarında doğruluğunu test etmek ve gerekirse düzeltmeler yapmak.
+
+---
+
+https://github.com/acetinkaya/VeriYapilari-ders5/blob/main/Ders5-Akis-Semasi.png
