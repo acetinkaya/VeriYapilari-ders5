@@ -46,19 +46,23 @@ Bu ders içerisinde;
 
 5.3. Algoritma Hazırlama Süreci
 
-1. Problem Tanımlaması 
+1. Başla
 
-2. Girdi, Çıktı ve Amacı Belirle  
+2. Problem Tanımlaması 
 
-3. Algoritma Tasarımı :->  Adım adım çözüm sürecini tasarlamak. Burada kullanılan yöntemler: Pseudocode ve Akış Diyagramları'dır.
+3. Girdi, Çıktı ve Amacı Belirle  
 
-4. Programlama Dilinin Seçimi
+4. Algoritma Tasarımı :->  Adım adım çözüm sürecini tasarlamak. Burada kullanılan yöntemler: Pseudocode ve Akış Diyagramları'dır.
 
-5. Algoritmayı Kodlamak
+5. Programlama Dilinin Seçimi
 
-6. Algoritma Analizi: Algoritmanın zaman ve alan karmaşıklığını analiz edin.
+6. Algoritmayı Kodlamak
 
-7. Test ve Düzeltme: Algoritmanın çeşitli test senaryolarında doğruluğunu test etmek ve gerekirse düzeltmeler yapmak.
+7. Algoritma Analizi: Algoritmanın zaman ve alan karmaşıklığını analiz edin.
+
+8. Test ve Düzeltme: Algoritmanın çeşitli test senaryolarında doğruluğunu test etmek ve gerekirse düzeltmeler yapmak.
+
+9. Bitir
 
 ---
 
